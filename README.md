@@ -7,7 +7,7 @@ To reproduce the manuscript figures, the notebooks need to be downloaded and exe
 
 `git clone https://github.com/asiddi24/Siddiqui_et_al_JGR_Oceans_2024.git`
 
-Use the `environment.yml` file as your conda environment.
+Use the `environment.yml` file as your conda environment. This is the default enviornment used within [Sciserver](https://www.sciserver.org/). It is optimized to work with [Oceanpsy](https://github.com/hainegroup/oceanspy/blob/main/sciserver_catalogs/environment.yml)
 
 The folder `figs/` contains static images created in the notebooks. 
 
